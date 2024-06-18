@@ -1,0 +1,3 @@
+- [Home](/)
+- [Installation](Installation.md)
+- [VAW Dashboard](VawDashboard.md)
